@@ -1,40 +1,8 @@
 # ⚛️ React Tutor: [Project Name, e.g., Smart Recipe Box]
 
+[![Open in Firebase Studio](https://img.shields.io/badge/Open_in_Firebase_Studio-FFA611?style=for-the-badge&logo=firebase&logoColor=white)]([YOUR_FIREBASE_STUDIO_LAUNCH_URL_HERE])
+
 A hands-on, step-by-step tutorial designed to teach the fundamentals of **Modern React** by building a cohesive, tangible application. This project focuses on the latest functional components, hooks, and best practices in the React ecosystem.
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to set up and run the project locally.
-
-### Prerequisites
-
-* **Node.js** (v18 or higher recommended)
-* **npm** or **yarn**
-
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [Your Repository URL]
-    cd [project-folder-name]
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
-
-3.  **Run the application:**
-    ```bash
-    npm start
-    # or
-    yarn dev (if using Vite)
-    ```
-    The application should open in your browser, typically at `http://localhost:3000`.
 
 ---
 
