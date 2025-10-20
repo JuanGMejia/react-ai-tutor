@@ -1,7 +1,21 @@
 # ⚛️ React Tutor: [Project Name, e.g., Smart Recipe Box]
 
-[![Open in Firebase Studio](https://img.shields.io/badge/Open_in_Firebase_Studio-FFA611?style=for-the-badge&logo=firebase&logoColor=white)]([YOUR_FIREBASE_STUDIO_LAUNCH_URL_HERE])
+Welcome\! This interactive tutor is designed to guide you step-by-step through building a complete, modern React application from the ground up. You'll learn the latest patterns and best practices for **React +18** by building a real, tangible project: a **"Smart Recipe Box"** for creating and managing recipes.
 
+Our goal is to foster critical thinking and help you retain what you learn. Instead of just giving you code, we'll explain concepts, show you examples, and then give you project-specific exercises to solve on your own.
+
+Click the link below to launch the AI tutor in Firebase Studio.
+
+<a href="https://studio.firebase.google.com/import?url=https%3A%2F%2Fgithub.com%2FJuanGMejia%2Freact-ai-tutor">
+  <img
+    height="32"
+    alt="Try in Firebase Studio"
+    src="https://cdn.firebasestudio.dev/btn/try_light_32.svg">
+</a>
+
+## **▶️ Getting Started**
+
+Ready to begin? Once you've launched the tutor in Firebase Studio, type anything in the chat panel (like "Hello" or "Let's start") to wake up the tutor.
 A hands-on, step-by-step tutorial designed to teach the fundamentals of **Modern React** by building a cohesive, tangible application. This project focuses on the latest functional components, hooks, and best practices in the React ecosystem.
 
 ---
